@@ -1,0 +1,13 @@
+# pgm
+
+A library for Probabilistic Graphical Models for Clojure.
+
+## Usage
+
+FIXME: write
+
+## License
+
+Copyright (C) 2012 Alberto Bengoa
+
+Distributed under the Eclipse Public License, the same as Clojure.
